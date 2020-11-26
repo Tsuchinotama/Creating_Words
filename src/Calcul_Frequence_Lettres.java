@@ -68,25 +68,25 @@ public class Calcul_Frequence_Lettres
 //	}
 //}
 
-	
-//	public static void main(String[] args)
-//	{
-//		double[][][] tab_freq = Calcul_Frequence_Lettres.calc_freq();
-//		for(int i=0; i<26; i++)
-//		{
-//			System.out.print("  "+Character.toString((char) (97+i))+"  ");
-//		}
-//		System.out.println();
-//		
-//		for (int j=0; j<27; j++)
-//		{
-//			System.out.print(Character.toString((char) (97)));
-//			for (int k=0; k<28; k++)
-//			{
-//				System.out.println(Character.toString((char) (97+k))+" "+tab_freq[0][k]+" ");
-//			}
-//			System.out.println();
-//		}
-//	}
-//}
+	/*
+	public static void main(String[] args)
+	{
+		double[][][] tab_freq = Calcul_Frequence_Lettres.calc_freq();
+		for(int i=0; i<26; i++)
+		{
+			System.out.print("  "+Character.toString((char) (97+i))+"  ");
+		}
+		System.out.println();
+		
+		for (int j=0; j<27; j++)
+		{
+			System.out.print(Character.toString((char) (97)));
+			for (int k=0; k<28; k++)
+			{
+				System.out.println(Character.toString((char) (97+k))+" "+ tab_freq[0][k][j] +" ");
+			}
+			System.out.println();
+		}
+	}
+*/
 
